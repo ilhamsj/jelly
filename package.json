@@ -1,0 +1,23 @@
+{
+  "name": "pug102",
+  "version": "1.0.0",
+  "description": "1. ``pug index.pug -o dist -P -w``",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ilhamsj/jelly.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ilhamsj/jelly/issues"
+  },
+  "homepage": "https://github.com/ilhamsj/jelly#readme",
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-connect": "^5.7.0"
+  }
+}
