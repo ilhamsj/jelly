@@ -1,2 +1,2 @@
 #PUG
-1. ``pug index.pug -o dist -P -w``
+1. ``pug views/index.pug -o public -P -w``
